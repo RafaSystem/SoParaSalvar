@@ -35,6 +35,7 @@ for(int i=0; i<arRS.size();i++){
 	+"<br>Password: "+rs.getPassword()+"<br>isDeleted: "+rs.isDeleted()+"<br>isOnline: "+rs.isOnline());
 	}
 %>
+
 </form>
 </body>
 </html>
